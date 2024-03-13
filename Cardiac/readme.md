@@ -9,3 +9,7 @@ Train and Validation mIoU!
 
 
 # Inference!
+
+Showing the test dataset with the comparison between Gt an Prediction!!
+
+![Screenshot (119)](https://github.com/TeachAI-UZ/CodingMasters/assets/89033710/15139e65-d91b-4671-9f14-4420d86c8814)

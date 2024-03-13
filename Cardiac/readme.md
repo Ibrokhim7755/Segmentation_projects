@@ -1,6 +1,6 @@
 # Plotting the Learning Curves!
 
-This basicly compares:  
+# This basicly compares:  
 Train and Validation Loss!  
 Train and Validation Pa!  
 Train and Validation mIoU!  

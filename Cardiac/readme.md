@@ -1,7 +1,7 @@
 # Plotting the Learning Curves!
 
 This basicly compares:
-Train and Validation Loss! \n
+\n Train and Validation Loss! 
 Train and Validation Pa!
 Train and Validation mIoU!
 

@@ -1,4 +1,4 @@
-# Segmentations:
+# Segmentations.
 **Initialization:**
 
 The Segmentations class is initialized with a root directory containing images and masks, along with optional transformations.

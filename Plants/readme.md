@@ -10,3 +10,5 @@ It sorts the paths of images and masks and ensures that the number of images and
 # Plots!!
 
 Training and validation learning plots.
+![Screenshot (140)](https://github.com/TeachAI-UZ/CodingMasters-3/assets/89033710/28350cd6-9fb0-4d98-90ce-cfd2630e1424)
+

@@ -8,3 +8,5 @@ It sorts the paths of images and masks and ensures that the number of images and
 ![Screenshot (139)](https://github.com/TeachAI-UZ/CodingMasters-3/assets/89033710/6fb23eda-5d9b-459a-982d-b32c45ea66c9)
 
 # Plots!!
+
+Training and validation learning plots.

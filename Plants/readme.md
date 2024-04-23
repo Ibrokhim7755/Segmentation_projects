@@ -16,3 +16,5 @@ Training and validation learning plots.
 
 Inference output after the train model with UNET and conducting on test dataset.  
 
+![Screenshot (141)](https://github.com/TeachAI-UZ/CodingMasters-3/assets/89033710/b338c8e6-5b92-4680-bdb0-8352a4bc9379)
+

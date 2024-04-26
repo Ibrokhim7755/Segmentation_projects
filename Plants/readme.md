@@ -2,7 +2,7 @@
 **Initialization:**
 
 The Segmentations class is initialized with a root directory containing images and masks, along with optional transformations.
-It sorts the paths of images and masks and ensures that the number of images and masks match.
+It sorts the paths of images and masks and ensures that the number of images and masks match!
 
 ![Screenshot (138)](https://github.com/TeachAI-UZ/CodingMasters-3/assets/89033710/64eaddbb-6de0-4ad9-9e26-da084f5c87f0)
 ![Screenshot (139)](https://github.com/TeachAI-UZ/CodingMasters-3/assets/89033710/6fb23eda-5d9b-459a-982d-b32c45ea66c9)
